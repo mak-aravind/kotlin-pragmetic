@@ -1,0 +1,1 @@
+template project for kotlin with gradle and testing framework as spock for TDD
